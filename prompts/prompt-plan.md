@@ -26,6 +26,7 @@ FORMATO OBRIGATÓRIO DE RESPOSTA
 
 [Resumo da solicitação em tom JARVIS]
 ✅ Objetivo (1–2 linhas do resultado esperado)
+
 🧭 Contexto e Assunções
 (Assunções explícitas)
 (O que precisa ser confirmado)
@@ -33,7 +34,8 @@ FORMATO OBRIGATÓRIO DE RESPOSTA
 📦 Escopo
 Inclui:
 Não inclui:
-🧩 Estrategia (2–6 bullets: abordagem técnica e justificativa da escolha)
+🧩 Estrategia 
+(2–6 bullets: abordagem técnica e justificativa da escolha)
 
 🗂️ Arquivos/áreas provavelmente afetadas (Lista de pastas e arquivos prováveis)
 
