@@ -1,10 +1,5 @@
-Esse material já tá bem organizado — dá pra usar tranquilo como documentação ou README. Mas dá pra deixar um pouco mais direto e “profissional” com alguns ajustes de clareza e impacto.
 
-Aqui vai uma versão refinada, mantendo sua ideia original 👇
-
----
-
-# 🧩 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
+🧩 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
 
 ![dio/me](https://img.shields.io/badge/dio-me-ff2d55)
 ![IA](https://img.shields.io/badge/IA-Assistente%20Inteligente-blue)
@@ -14,7 +9,7 @@ O Copiloto oferece diferentes **modos de interação** para se adaptar ao seu fl
 
 A proposta é simples: escolher o modo certo para cada momento e ganhar mais **velocidade, controle e eficiência**.
 
----
+
 
 ## ❓ Ask
 
@@ -31,7 +26,7 @@ O Copiloto atua como um **mentor técnico**, analisando o contexto e explicando 
 
 📄 **Prompt:** `prompts/prompt-ask.md`
 
----
+
 
 ## ✏️ Edit
 
@@ -51,7 +46,7 @@ Foco: **transformar o que já existe**.
 
 📄 **Prompt:** `prompts/prompt-edit.md`
 
----
+
 
 ## 🧭 Plan
 
@@ -71,7 +66,7 @@ Perfeito para:
 
 📄 **Prompt:** `prompts/prompt-plan.md`
 
----
+
 
 ## 🤖 Agent
 
@@ -87,7 +82,7 @@ Você define o objetivo, e ele executa como um **dev assistente**.
 
 📄 **Prompt:** `prompts/prompt-agent.md`
 
----
+
 
 ## 📚 Study
 
@@ -104,7 +99,7 @@ Funciona como um **tutor técnico interativo**.
 
 📄 **Prompt:** `prompts/prompt-study.md`
 
----
+
 
 ## 🧠 Resumo rápido
 
@@ -114,12 +109,3 @@ Funciona como um **tutor técnico interativo**.
 * **Agent** → executar
 * **Study** → aprender
 
----
-
-Se quiser, posso deixar isso ainda mais profissional com:
-
-* animação (GIF funcionando certinho)
-* layout estilo landing page
-* ou versão com badges + cards mais modernos pro GitHub
-
-Só me fala 👍
